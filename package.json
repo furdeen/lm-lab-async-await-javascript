@@ -8,6 +8,7 @@
     "doc": "docs"
   },
   "scripts": {
+    "start": "node exercise001.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
